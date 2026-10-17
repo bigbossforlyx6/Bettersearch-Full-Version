@@ -233,4 +233,4 @@ This repository serves as the official landing page for BetterSearch. The softwa
 **Get the most recent version of BetterSearch today!**
 
 ---
-**Last updated:** 2026-10-16 23:18:07 UTC
+**Last updated:** 2026-10-17 03:31:37 UTC
